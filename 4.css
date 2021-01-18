@@ -1,0 +1,44 @@
+
+CATALOG { 
+    background-color: greenyellow; 
+    width: 100%; 
+} 
+STUDENT{ 
+    display: block; 
+    
+     margin-left: 0; 
+}
+ 
+NAME{ 
+    color: #FF0000; 
+    font-size: 20pt; 
+} 
+NAME1{ 
+    color: cornflowerblue; 
+    font-size: 20pt; 
+} 
+NAME2{ 
+    color: orange; 
+    font-size: 20pt; 
+}
+NAME3{ 
+    color: green; 
+    font-size: 20pt; 
+}
+NAME4{ 
+    color: grey; 
+    font-size: 20pt; 
+}
+NAME5{ 
+    color: cornflowerblue; 
+    font-size: 20pt; 
+}
+SRN{ 
+    color: #0000FF; 
+    font-size: 20pt; 
+} 
+BRANCH,SEMESTER,UNIVERSITY,COUNTRY { 
+    display: block; 
+    color:red; 
+    margin-left: 20pt;  
+}

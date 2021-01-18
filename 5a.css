@@ -1,0 +1,34 @@
+RU{
+    background-color: crimson;
+}
+b{ 
+    display:block;
+    color:blue;
+    font-style:bold;
+}
+e{ 
+    display:block;
+    color:green;
+    font-style:bold;
+}
+s{ 
+    display:block;
+    color:red;
+    font-style:bold;
+}
+c{ display:block;
+    color:blue;
+    font-style:bold;
+}
+o{ display:block;
+    color:black;
+    font-style:bold;
+}
+EI{
+    background-color: darkgray;
+}
+m,l,h,er,t{
+    display: block;
+    color: blueviolet;
+    margin-left: 20px;
+}
